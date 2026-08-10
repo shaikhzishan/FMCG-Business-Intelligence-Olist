@@ -262,7 +262,7 @@ Detailed project documentation is available in the `documentation/` directory:
 
 ## Links
 
-* **Kaggle Dataset:** 
+* **Kaggle Dataset:(https://www.kaggle.com/datasets/shaikhzishan982/fmcg-business-intelligence-dataset)** 
 * **Kaggle Notebook:** 
 
 ---
